@@ -1,0 +1,94 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 12.99,
+      "category": "Fiction",
+      "rating": 4.7,
+      "description": "A young shepherd follows his dreams and discovers the meaning of life."
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 16.99,
+      "category": "Self-Help",
+      "rating": 4.8,
+      "description": "A practical guide to building good habits and breaking bad ones."
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 14.99,
+      "category": "Finance",
+      "rating": 4.6,
+      "description": "A personal finance book about money, investing, and financial education."
+    },
+    {
+      "id": 4,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": 18.99,
+      "category": "Finance",
+      "rating": 4.8,
+      "description": "Explores how emotions and behavior influence financial decisions."
+    },
+    {
+      "id": 5,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 29.99,
+      "category": "Programming",
+      "rating": 4.7,
+      "description": "A guide to writing readable, maintainable, and professional software."
+    },
+    {
+      "id": 6,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "price": 32.99,
+      "category": "Programming",
+      "rating": 4.8,
+      "description": "Practical advice and techniques for becoming a better software developer."
+    },
+    {
+      "id": 7,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "price": 15.99,
+      "category": "Fantasy",
+      "rating": 4.9,
+      "description": "A young wizard begins his magical journey at Hogwarts School."
+    },
+    {
+      "id": 8,
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 11.99,
+      "category": "Dystopian",
+      "rating": 4.6,
+      "description": "A classic novel about surveillance, control, and individual freedom."
+    },
+    {
+      "id": 9,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 10.99,
+      "category": "Classic",
+      "rating": 4.4,
+      "description": "A story of wealth, love, ambition, and the American Dream."
+    },
+    {
+      "id": 10,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 17.99,
+      "category": "Productivity",
+      "rating": 4.7,
+      "description": "Strategies for focusing without distraction and producing valuable work."
+    }
+  ]
+}
